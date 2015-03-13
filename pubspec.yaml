@@ -1,3 +1,4 @@
 name: apify
 dependencies:
+  uri: any
   http: any
